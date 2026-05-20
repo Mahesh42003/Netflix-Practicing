@@ -1,0 +1,377 @@
+.background-of-starting-page {
+    background-image: url("https://assets.nflxext.com/ffe/siteui/vlv3/a927b1ee-784d-494a-aa80-cf7a062d2523/web/IN-en-20250714-TRIFECTA-perspective_5acb7337-c372-45ec-ae12-ddb110e6ad78_large.jpg");
+    height: 690px;
+    width: 1260px;
+    background-size: cover;
+    object-fit: contain;
+    display: flex;
+    flex-direction: column;
+    
+}
+.NETFLIX-HEADING-AT-STARTING-PAGE{
+    width: 9.25rem;
+    height: 2.5rem;
+    color: rgb(229, 9, 20);
+    fill: currentColor;
+    display: block;
+    font-weight: bold;
+    margin: 0 0 0 26px;
+    padding: 20px;
+    font-family: 'sans-serif';
+}
+
+.starting-page-of-select-element{
+    height: 36px;
+font-family: unset;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.25;
+    padding-top: 0.375rem;
+    padding-right: calc(2.25rem + 0rem);
+    padding-bottom: 0.375rem;
+    padding-left: calc(0.625rem + 1rem + 0.5rem);
+}
+
+.margin-left-for-select-element {
+    margin-top: 30px;
+}
+
+.flexing-of-netflix-heading-and-select-element {
+    display: flex;
+    justify-content: space-between;
+}
+
+.sign-in-button {
+    height: 38px;
+    margin-left: 5px;
+    padding: 10px;
+    width: 76.91px;
+    font-family: unset;
+    font-size: 0.875rem;
+    font-weight: 500;
+    background-color: #e50914;
+    color: #ffffff;
+    border-width: 0px;
+    border-radius: 10px;
+}
+
+.sign-in-button-for-hindi{
+    height: 38px;
+    margin-left: 5px;
+    padding: 10px;
+    width: 103.84px;
+    font-family: unset;
+    font-size: 0.875rem;
+    font-weight: 500;
+    background-color: #e50914;
+    color: #ffffff;
+    border-width: 0px;
+    border-radius: 10px;
+}
+
+.heading-of-starting-page {
+    font-family: unset;
+    font-size: 3.5rem;
+    width: 700px;
+    font-weight: 900;
+    color: #ffffff;
+    text-align: center;
+    align-self: center;
+    margin-top: 200px;
+}
+
+.paragraph-of-starting-page {
+    align-self: center;
+    color: #ffffff;
+    font-family: unset;
+    font-size: 1.25rem;
+    font-weight: 500;
+
+}
+
+.h3-of-starting-page {
+    color: rgb(255, 255, 255);
+    font-family: unset;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    align-self: center;
+}
+
+.size-of-input-email-address {
+   width: 300px;
+   height: 50px;
+   margin-left: 350px;
+}
+
+.get-started-button {
+    width: 213.25px;
+    height: 56px;
+    border-width: 0px;
+    background-color: rgb(229, 9, 20);
+    font-weight: 500;
+    font-size: 20px;
+    font-family: unset;
+    margin-left: 10px;
+    border-radius: 10px;
+    color: #ffffff;
+}
+
+.flexing-of-email-and-get-started-button{
+    display: flex;
+}
+
+.size-of-forward-icon {
+    font-size: 18px
+}
+.below-backgroud-ofting-page-netflix{
+    width: 1260px;
+    height: 2171.33px;
+    background-color: black;
+     position: relative;
+    
+    bottom: 20px;
+}
+.trending-now-button{
+    color: #ffffff;
+    position: relative;
+    left: 60px;
+}
+
+.background-image-for-trending-now-images-1 {
+    background-image: url("https://occ-0-3365-2186.1.nflxso.net/dnm/api/v6/mAcAr9TxZIVbINe88xb3Teg5_OA/AAAABaW57jWqw0Gs9gqgmW816THwyNfPqphIiruQRFy9KXtt9PTPJpB4kzDKriPcpNjPKCj0itu1Yfjl-CR8rGEokBHPKE4O9lZQHXHRRpUHEelwoKk8lOf4gqlws-HnR2iZeSk4.webp?r=609");
+    height: 252px;
+    width: 180px;
+    background-size: cover;
+    margin-left: 20px;
+}
+
+
+.Ready-to-watch-heading{
+    color: #ffffff;
+    text-align: center;
+}
+.background-image-for-trending-now-images-1 iframe {
+  pointer-events: none; 
+  transition: opacity 0.3s;
+  opacity: 0.5;
+}
+
+.background-image-for-trending-now-images-1:hover iframe {
+  pointer-events: auto; /* Enable interaction on hover of container */
+  opacity: 1;
+}
+
+.background-image-for-trending-now-images-2 {
+    background-image: url("https://occ-0-3365-2186.1.nflxso.net/dnm/api/v6/mAcAr9TxZIVbINe88xb3Teg5_OA/AAAABU73BvQjJgydQFEJ-vZZw9QtO8fL6lIxc71x9tOqxgDWh_BHokCWPIbGC5AxJjDk0D_sIH5KhmmYm9HLr3DKUXg8eo6nzF0rtSI.webp?r=d95");
+    height: 252px;
+    width: 180px;
+    background-size: cover;
+    margin-left: 20px;
+}
+.background-image-for-trending-now-images-3{
+    background-image: url("https://occ-0-3365-2186.1.nflxso.net/dnm/api/v6/mAcAr9TxZIVbINe88xb3Teg5_OA/AAAABfy84y3NulH__7Vwk6-L87Z28YYoqlEmwJck7b6A43-Qi2HhXrANxbnBwnVNmp3ERdO0bFHlk0MLPq63gMWhfqpX-vt3Ub6EJ_jZ9Sw8mpr-HOTuJKqopThazLKGY9vdGu5H.webp?r=5d9");
+    height: 252px;
+    width: 180px;
+    background-size: cover;
+    margin-left: 20px;
+}
+
+.background-image-for-trending-now-images-4{
+    background-image: url("https://occ-0-3365-2186.1.nflxso.net/dnm/api/v6/mAcAr9TxZIVbINe88xb3Teg5_OA/AAAABVVzJ7Q5ewWWr7Ju9Vpu5gUq1Guy_hTrvChxJceb-sKqWPiIs1YGHsy_iC2mNT5bKs2BepshCHriwd7IQhYM2HPuqd7MBfqMXFL8nXJshtQEi6-KAKZAcSvG7xE3daK4ABuC.webp?r=81a");
+    height: 252px;
+    width: 180px;
+    background-size: cover;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.more-reason-heading {
+    color: #ffffff;
+    position: relative;
+    left: 60px;
+    font-family: unset;
+    font-size: 1.5rem;
+    font-weight: 500;
+}
+
+.flexing-of-trending-now-images {
+    
+    display: flex;
+    justify-content: space-around;
+}
+
+.background-color-of-more-ways-to-join-image-1{
+    background-image:  linear-gradient(149deg, #192247 0%, #210e17 96.86%);
+    height: 329.33px;
+    width: 230.17px;
+    border-radius: 10px;
+}
+
+
+.enjoy-your-tv-heading{
+    font-family: unset;
+        font-size: 1.5rem;
+        font-weight: 500;
+        color: #ffffff;
+}
+.more-ways-to-join-para-1{
+    color: rgba(255, 255, 255, 0.7);
+    font-family: unset;
+    font-size: 1rem;
+    font-weight: 400;
+}
+
+.flexing-of-more-ways-to-join {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.background-image-for-trending-now-images-5{
+    background-image: url("https://occ-0-3365-2186.1.nflxso.net/dnm/api/v6/mAcAr9TxZIVbINe88xb3Teg5_OA/AAAABYGL4_ns5MGTE5-Yd3ZQVB5apyY9yxQ39lxjT_27ehdoGzrxRwNc4osgXEeifcv9yO_MgMySL-p6hMxtQZnIEkZmyglIJ7wm7ik.webp?r=c23");
+    height: 252px;
+    width: 180px;
+    background-size: cover;
+    margin-left: 20px;
+}
+
+.background-image-for-trending-now-images-6{
+    background-image: url("https://occ-0-3365-2186.1.nflxso.net/dnm/api/v6/mAcAr9TxZIVbINe88xb3Teg5_OA/AAAABcH5_XDKPeXszDIKUeRk9f8gbZf2IIH_vdf4CNwOb7kql21x-tuHFIQn1NVGFCzD79WrtEa2YEWqbSqJAs8AAOymvo6mcwfQlFM.webp?r=e74");
+    height: 252px;
+    width: 180px;
+    background-size: cover;
+    margin-left: 20px;
+}
+
+.background-image-for-trending-now-images-7{
+    background-image: url("https://occ-0-3365-2186.1.nflxso.net/dnm/api/v6/mAcAr9TxZIVbINe88xb3Teg5_OA/AAAABYUCgDPIk4LvnEw_j-dC5ca65oxm4yP2Z7RFKlRcN6WYzCwNA4MhTNqTRrSAK9zND3cSjrYEpbQculmTCXPD09ZbvdCosdbuOjc.webp?r=062");
+    height: 252px;
+    width: 180px;
+    background-size: cover;
+    margin-left: 20px;
+}
+
+.background-image-for-trending-now-images-8{
+    background-image: url("https://occ-0-3365-2186.1.nflxso.net/dnm/api/v6/mAcAr9TxZIVbINe88xb3Teg5_OA/AAAABWtQdcUd4n6VKz6HTm_IbI2cOq0VDU7fDQpomIXBLuCYqtJ4j8hj2pz7j6spnX2osjRgTMJQ9xkMieYZWqC6xC8G4tGlTLJBm3I.webp?r=cc2");
+    height: 252px;
+    width: 180px;
+    background-size: cover;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.background-image-for-trending-now-images-9{
+    background-image: url("https://occ-0-3365-2186.1.nflxso.net/dnm/api/v6/mAcAr9TxZIVbINe88xb3Teg5_OA/AAAABYVcRfFB91jy3f8-_Alb6H4RUzqXFRA7ejjOfCOXF20XLRVeCyT3ZFEimKbZAimt2ayVUWXSnp6ApNxpoK0mA3XzJD__irrDkdMD6lDrOFPSvQqP8s0xn2dNBaU9JxIu4lUd.webp?r=63b");
+    height: 252px;
+    width: 180px;
+    background-size: cover;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.background-image-for-trending-now-images-10{
+    background-image: url("https://occ-0-3365-2186.1.nflxso.net/dnm/api/v6/mAcAr9TxZIVbINe88xb3Teg5_OA/AAAABZ2Btia34ViHOdbGThR2xD0XYVD9vkdTkUULeET8PcHeq12ebMOJyLaTD1yS26NaRfUqDMknk2XnomOCg78WEKeN3VEDdOKzFRayBGveEZ-MeOaVD-v0z5P25idICKgt-nXX.webp?r=a1c");
+    height: 252px;
+    width: 180px;
+    background-size: cover;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.tv-image {
+    margin-top: 80px;
+    margin-left: 150px;
+}
+
+.download-image {
+    margin-left: 150px;
+    margin-top: 20px;
+}
+
+.download-image-hindi{
+      margin-left: 150px;
+    margin-top: 55px;
+}
+
+.congragulations-image{
+    margin-left: 150px;
+    background-color: transparent;
+    margin-top: 80px;
+}
+
+.congragulations-image-hindi{
+     margin-left: 150px;
+    background-color: transparent;
+    margin-top: 60px;
+}
+
+.emoji-image {
+    margin-left: 150px;
+    margin-top: 20px;
+}
+
+.emoji-image-hindi{
+    margin-left: 150px;
+    margin-top: 30px;
+}
+
+.frequently-asked-questions-heading {
+    color: #ffffff;
+    margin-left: 60px;
+}
+li{
+    list-style-type: none;
+    background-color:  white;
+    height: 60px;
+    width: 1100px;
+    margin-left: 30px;
+}
+
+li:hover{
+    outline: none;
+    cursor: pointer;
+    list-style-type: none;
+    background-color:  gray;
+    height: 60px;
+    width: 1100px;
+    margin-left: 30px;
+}
+
+.plus-button {
+    height: 42.43px;
+    width: 42.43px;
+    background-color: transparent;
+     border-width: 0px;
+     margin-top: 10px;
+}
+
+.flexing-of-each-card{
+    display: flex;
+    justify-content: space-between;
+    border-width: 0px;
+   position: relative;
+    margin-top: 20px;
+}
+
+
+.what-is-netflix-heading{
+
+    bottom: 15px;
+}
+
+.styling-of-flex-of-each-card{
+    margin-bottom: 160px;
+}
+
+.card-paragraph-styling{
+    background-color: gray;
+    position: relative;
+    height: 150px;
+    width: 1100px;
+    bottom: 40px;
+}
+
+.questions-call-heading{
+    color:gray;
+    margin-left: 70px;
+}
