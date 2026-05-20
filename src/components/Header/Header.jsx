@@ -2,7 +2,7 @@ import React from 'react'
 
 const Header = () => {
   return (
-    <div>This is Header Page</div>
+    <div>This is Header Page Updated</div>
   )
 }
 
